@@ -8,6 +8,7 @@ style_eksternal.css <img width="1366" height="768" alt="Cuplikan layar 2025-09-2
 
 
 Jawaban Pertanyaan dan tugas
+
 2. h1 {...}
 Ini adalah selector elemen langsung. Artinya, aturan CSS ini berlaku untuk semua elemen <h1> di halaman.
 
@@ -25,4 +26,4 @@ Jadi, apabila ada ketiga deklarasi pada elemen yang sama, yang ditampilkan brows
 
 4. Selector ID (#id) memiliki spesifisitas lebih tinggi dibandingkan selector Class (.class).
 Jadi, jika ada aturan untuk ID dan Class yang bertentangan, maka aturan dari ID yang akan diterapkan.
-<p id="paragraf-1" class="text-paragraf">Ini paragraf contoh.</p>
+
