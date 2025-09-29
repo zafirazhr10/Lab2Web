@@ -10,9 +10,9 @@ style_eksternal.css <img width="1366" height="768" alt="Cuplikan layar 2025-09-2
 Jawaban Pertanyaan dan tugas
 
 2.  - h1 :
-Ini adalah selector elemen langsung. Artinya, aturan CSS ini berlaku untuk semua elemen <h1> di halaman.
+Ini adalah selector elemen langsung. Artinya, aturan CSS ini berlaku untuk semua elemen h1 di halaman.
 - intro h1 :
-Ini adalah selector gabungan yang lebih spesifik. Aturan CSS ini hanya berlaku untuk elemen <h1> yang berada di dalam elemen dengan id="intro". Jadi, jika ada elemen <h1> di luar elemen #intro, aturan ini tidak berlaku untuk mereka.
+Ini adalah selector gabungan yang lebih spesifik. Aturan CSS ini hanya berlaku untuk elemen <h2 yang berada di dalam elemen dengan id="intro". Jadi, jika ada elemen h1 di luar elemen intro, aturan ini tidak berlaku untuk mereka.
 
 3. - CSS Eksternal: di-link dari file .css terpisah.
 - CSS Internal: ditulis di dalam <style> di bagian <head> HTML.
